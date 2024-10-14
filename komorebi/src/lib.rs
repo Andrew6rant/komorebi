@@ -86,11 +86,11 @@ lazy_static! {
     ]));
     static ref TRAY_AND_MULTI_WINDOW_IDENTIFIERS: Arc<Mutex<Vec<MatchingRule>>> =
         Arc::new(Mutex::new(vec![
-            MatchingRule::Simple(IdWithIdentifier {
-                kind: ApplicationIdentifier::Exe,
-                id: String::from("explorer.exe"),
-                matching_strategy: Option::from(MatchingStrategy::Equals),
-            }),
+            //MatchingRule::Simple(IdWithIdentifier {
+            //    kind: ApplicationIdentifier::Exe,
+            //    id: String::from("explorer.exe"),
+            //    matching_strategy: Option::from(MatchingStrategy::Equals),
+            //}),
             MatchingRule::Simple(IdWithIdentifier {
                 kind: ApplicationIdentifier::Exe,
                 id: String::from("firefox.exe"),

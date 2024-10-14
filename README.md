@@ -1,3 +1,7 @@
+Komorebi fork with [Groupy 2](https://www.stardock.com/products/groupy/) compatibility. (only tested on Windows 10)
+
+<details><summary>Original README:</summary>
+
 # komorebi
 
 Tiling Window Management for Windows.
@@ -443,3 +447,6 @@ programming languages.
 - Thank you to the developers of [GlazeWM](https://github.com/lars-berger/GlazeWM) for pushing the boundaries of tiling window management on Windows with me and having an excellent spirit of collaboration
 
 - Thank you to [@Ciantic](https://github.com/Ciantic) for helping me bring the [hidden Virtual Desktops cloaking function](https://github.com/Ciantic/AltTabAccessor/issues/1) to `komorebi`
+
+
+</details>
